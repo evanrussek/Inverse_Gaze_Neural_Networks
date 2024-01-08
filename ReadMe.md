@@ -5,8 +5,11 @@ Code was made with reference to NYU's deep learning course shared code, https://
 The manuscript covers 4 separate training and testing tasks:
 
 Training on simulated data and testing on simulated data
+
 Training on simulated data and testing on human data
+
 Training on human data alone and testing on human data
+
 Training on simulated and human data and testing on human data
 
 For each of these tasks, we train three separate sequential models: LSTMs, GRUs and Transformers, which map sequences of fixations to predictions of utilities.
